@@ -19,6 +19,8 @@ This repository is dedicated to reimplementing foundational and impactful machin
 ### 1. Logistic Regression with Gradient Descent
 - Implemented from scratch using only NumPy
 - Gradient descent with loss minimization
+- Reimplementation Base on Research Paper
+    - Paper - "Logistic Regression Model for the Academic Performance of First-Year Medical Students in the Biomedical Area" : (DOI: 10.4236/ce.2016.715217)
 
 ---
 
